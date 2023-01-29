@@ -10,6 +10,6 @@ In the project directory, you can run:
 
 ### `yarn build`
 
-### `yarn run`
+### `yarn run dev`
 
-
+### `yarn build`
